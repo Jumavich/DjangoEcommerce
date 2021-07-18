@@ -1,0 +1,80 @@
+[
+    {
+       "model": "core.item",
+       "pk": 1,
+       "fields": {
+          "item_name": "Clorace x 10 Cpsulas",
+          "price": 4,
+          "discount_price": null,
+          "category": "F",
+          "label": "N",
+          "description": "Antigripal para el tratamiento sintomtico del resfriado comn.",
+          "image_path": "https://images.farmatodo.com/bduc/img/ve/item/medium/ve_items_111007226_medium_standart_1383877466813.jpg"
+       }
+    },
+    {
+       "model": "core.item",
+       "pk": 2,
+       "fields": {
+          "item_name": "Atamel Forte 650 mg x 10 Tabletas",
+          "price": 5,
+          "discount_price": null,
+          "category": "F",
+          "label": "N",
+          "description": "Analgesico, antipirtico. Dolor, fiebre y malestar general.",
+          "image_path": "https://images.farmatodo.com/bduc/img/ve/item/medium/ve_items_111026723_medium_standart_1384012197736.jpg"
+       }
+    },
+    {
+       "model": "core.item",
+       "pk": 3,
+       "fields": {
+          "item_name": "Teragrip Forte 24h x 10 Tabletas Da + 4 Tabletas Noche",
+          "price": 4,
+          "discount_price": null,
+          "category": "F",
+          "label": "N",
+          "description": "Antigripal para el tratamiento sintomatico del resfriado comun.",
+          "image_path": "https://images.farmatodo.com/bduc/img/ve/item/medium/ve_items_111196051_medium_standart_1385009498610.jpg"
+       }
+    },
+    {
+       "model": "core.item",
+       "pk": 4,
+       "fields": {
+          "item_name": "Diclofenac Potasico Calox 50 mg x 20 Tabletas",
+          "price": 5,
+          "discount_price": null,
+          "category": "F",
+          "label": "N",
+          "description": "Antiinflamatorio no esteroideo",
+          "image_path": "https://www.farmapana.com/3937-large_default/diclofenaco-potasico-calox.jpg"
+       }
+    },
+    {
+       "model": "core.item",
+       "pk": 5,
+       "fields": {
+          "item_name": "Dencorub Gel x 80 gr",
+          "price": 7,
+          "discount_price": null,
+          "category": "C",
+          "label": "N",
+          "description": "Analgesico topico",
+          "image_path": "https://www.dencorub.com.ve/media/cache/8e/a1/8ea14223ec2fb24314bb6b3431114f30.png?114917270613"
+       }
+    },
+    {
+       "model": "core.item",
+       "pk": 6,
+       "fields": {
+          "item_name": "Dencorub Gel x 40 gr",
+          "price": 5,
+          "discount_price": null,
+          "category": "C",
+          "label": "N",
+          "description": "Analgsico tpico",
+          "image_path": "https://www.dencorub.com.ve/media/cache/5e/1e/5e1ecf2cb2b476907755204124bcd405.png?334601200613"
+       }
+    }
+ ]

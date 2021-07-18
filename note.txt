@@ -17,4 +17,9 @@ Setup And Configuration
 - pip install django-crispy-forms
 - pip install stripe
 
+Backup data
+py manage.py dumpdata core.Item > ./fixtures/items.json
+
+Restore data
+py manage.py loaddata ./fixtures/items.json
 
